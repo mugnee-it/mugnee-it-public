@@ -1,8 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Mugnee IT Website (Next.js)
 
-## Getting Started
+Production domain: `https://mugneeit.com`
 
-First, run the development server:
+## Local Development
+
+Run the development server:
 
 ```bash
 npm run dev
@@ -14,23 +16,39 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open `http://localhost:3000` in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Production Environment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Create `.env.local` (or set env vars in hosting panel):
 
-## Learn More
+```env
+NEXT_PUBLIC_SITE_URL=https://mugneeit.com
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Build and Run (Production)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm run build
+npm run start
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Domain Setup Checklist
 
-## Deploy on Vercel
+1. Point domain DNS to your hosting provider.
+2. Set `NEXT_PUBLIC_SITE_URL=https://mugneeit.com`.
+3. Deploy latest code.
+4. Verify canonical/OG URLs use `https://mugneeit.com`.
+5. Test key routes:
+   ` / `
+   ` /services `
+   ` /blog `
+   ` /blog/admin `
+   ` /schedule-consultation `
+6. Submit sitemap (if configured) in Google Search Console.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Notes
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Blog auto-publish (from `/blog/admin`) writes to runtime JSON file.
+- On serverless hosting, file-write persistence may not be guaranteed.
+- For long-term publishing, use a CMS (Sanity/Strapi/WordPress headless).

@@ -1,0 +1,15 @@
+export type ServicePillarKey =
+  | "nextjs"
+  | "frontend"
+  | "mern"
+  | "wordpress"
+  | "shopify"
+  | "wix"
+  | "seo"
+  | "lead-generation"
+  | "linkedin-setter"
+  | "video-editing"
+  | "graphic-design"
+  | "software-solution"
+  | "webmail"
+  | "web-scraping";
