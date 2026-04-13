@@ -2,6 +2,8 @@
 
 **A modern, client-focused web experience that presents software development, web services, and digital growth offerings with clarity, credibility, and a streamlined path to engagement.**
 
+**[View the visual tour →](#visual-tour-live-product)**
+
 ---
 
 ## Overview
@@ -60,26 +62,77 @@ The production solution is built with contemporary, maintainable web technology:
 
 ---
 
-## Screenshots
+## Visual tour (live product)
 
-Add high-resolution captures to the `screenshots` folder. Suggested filenames (replace or extend as you prefer):
+Below is a **curated walk-through** of the live experience at [mugneeit.com](https://mugneeit.com), ordered the way a prospective client typically explores: first impression, proof of delivery, depth of services, then a clear path to talk with your team. Each capture is optimized for readability in GitHub (scaled width; click the image to open full size in a new tab when viewing on github.com).
 
-| Suggested file | What to show |
-| :--- | :--- |
-| `./screenshots/01-hero-homepage.png` | Homepage hero and primary call-to-action |
-| `./screenshots/02-services-overview.png` | Services hub or pillar overview |
-| `./screenshots/03-service-detail.png` | Example deep-dive service page |
-| `./screenshots/04-portfolio-grid.png` | Portfolio or projects listing |
-| `./screenshots/05-portfolio-case.png` | Single project or case highlight |
-| `./screenshots/06-blog-listing.png` | Blog index |
-| `./screenshots/07-contact-consultation.png` | Contact or schedule consultation flow |
-| `./screenshots/08-mobile-navigation.png` | Mobile menu or key mobile screen |
+### 1 · First impression — homepage
 
-**Path placeholders (drop files in `screenshots/` using the names above, or update this section to match your filenames):**
+A strong opening sets tone, services, and credibility within seconds.
 
-- `./screenshots/01-hero-homepage.png`
-- `./screenshots/02-services-overview.png`
-- `./screenshots/05-portfolio-case.png`
+<p align="center">
+  <a href="./screenshots/screencapture-mugneeit-2026-04-13-10_19_27.png" title="Open full image">
+    <img src="./screenshots/screencapture-mugneeit-2026-04-13-10_19_27.png" alt="Mugnee IT homepage — hero, value proposition, and primary navigation" width="920" />
+  </a>
+</p>
+
+<p align="center"><em>Homepage — hero, positioning, and entry points into services.</em></p>
+
+<p align="center">
+  <a href="./screenshots/screencapture-mugneeit-2026-04-13-10_25_04.png" title="Open full image">
+    <img src="./screenshots/screencapture-mugneeit-2026-04-13-10_25_04.png" alt="Mugnee IT homepage — continued scroll showing services and trust sections" width="920" />
+  </a>
+</p>
+
+<p align="center"><em>Homepage — further down the page: services, process, and supporting content that builds confidence.</em></p>
+
+### 2 · Proof — projects & outcomes
+
+Concrete work signals that you ship real products, not only promises.
+
+<p align="center">
+  <a href="./screenshots/screencapture-mugneeit-projects-2026-04-13-10_20_24.png" title="Open full image">
+    <img src="./screenshots/screencapture-mugneeit-projects-2026-04-13-10_20_24.png" alt="Mugnee IT projects portfolio page showing case-style listings" width="920" />
+  </a>
+</p>
+
+<p align="center"><em>Projects — portfolio-style presentation of delivered work.</em></p>
+
+### 3 · Depth — representative service pages
+
+Dedicated pages explain *how* you help, with enough detail for technical and non-technical buyers.
+
+<p align="center">
+  <a href="./screenshots/screencapture-mugneeit-services-nextjs-2026-04-13-10_22_55.png" title="Open full image">
+    <img src="./screenshots/screencapture-mugneeit-services-nextjs-2026-04-13-10_22_55.png" alt="Next.js services page on Mugnee IT — structured offering and messaging" width="920" />
+  </a>
+</p>
+
+<p align="center"><em>Service example — Next.js: modern web positioning and structured service narrative.</em></p>
+
+<p align="center">
+  <a href="./screenshots/screencapture-mugneeit-services-mobile-app-development-2026-04-13-10_22_27.png" title="Open full image">
+    <img src="./screenshots/screencapture-mugneeit-services-mobile-app-development-2026-04-13-10_22_27.png" alt="Mobile app development services page on Mugnee IT" width="920" />
+  </a>
+</p>
+
+<p align="center"><em>Service example — mobile app development: breadth beyond web-only delivery.</em></p>
+
+### 4 · Action — schedule a consultation
+
+A low-friction next step turns interest into a conversation.
+
+<p align="center">
+  <a href="./screenshots/screencapture-mugneeit-schedule-consultation-2026-04-13-10_20_45.png" title="Open full image">
+    <img src="./screenshots/screencapture-mugneeit-schedule-consultation-2026-04-13-10_20_45.png" alt="Schedule consultation page on Mugnee IT — lead capture and booking-oriented layout" width="920" />
+  </a>
+</p>
+
+<p align="center"><em>Schedule consultation — clear path from browsing to booking a conversation.</em></p>
+
+<p align="center">
+  <strong><a href="https://mugneeit.com">Visit the live site →</a></strong>
+</p>
 
 ---
 
@@ -113,5 +166,3 @@ If you are evaluating a partner for **custom software**, **modern web platforms*
 ---
 
 *This repository is a non-development showcase. It does not contain runnable application code, dependencies, or deployment configuration.*
-
-# mugnee-it-public
