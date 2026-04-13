@@ -64,7 +64,7 @@ The production solution is built with contemporary, maintainable web technology:
 
 ## Visual tour (live product)
 
-A **two-column gallery** of the live experience at [mugneeit.com](https://mugneeit.com): each row pairs related views so visitors can compare at a glance. **Click any image** for the full-resolution capture.
+A **two-column gallery** of the live experience at [mugneeit.com](https://mugneeit.com). Preview widths are **tuned per row** so both columns have a similar on-screen height (these captures are full-page scrolls — open the file for detail). **Click any image** for the full-resolution PNG.
 
 <table>
   <tbody>
@@ -72,16 +72,16 @@ A **two-column gallery** of the live experience at [mugneeit.com](https://mugnee
       <td align="center" valign="top" width="50%">
         <p><strong>Homepage — hero &amp; positioning</strong></p>
         <a href="./screenshots/screencapture-mugneeit-2026-04-13-10_47_40.png" title="Open full image">
-          <img src="./screenshots/screencapture-mugneeit-2026-04-13-10_47_40.png" alt="Mugnee IT homepage — hero, value proposition, and primary navigation" width="430" />
+          <img src="./screenshots/screencapture-mugneeit-2026-04-13-10_47_40.png" alt="Mugnee IT homepage — hero, value proposition, and primary navigation" width="400" />
         </a>
-        <p><sub>Above the fold: brand, primary paths into services.</sub></p>
+        <p><sub>Desktop capture (full-length scroll — preview scaled).</sub></p>
       </td>
       <td align="center" valign="top" width="50%">
         <p><strong>Homepage — depth &amp; trust</strong></p>
         <a href="./screenshots/screencapture-mugneeit-2026-04-13-10_25_04.png" title="Open full image">
-          <img src="./screenshots/screencapture-mugneeit-2026-04-13-10_25_04.png" alt="Mugnee IT homepage — services and trust sections" width="430" />
+          <img src="./screenshots/screencapture-mugneeit-2026-04-13-10_25_04.png" alt="Mugnee IT homepage — services and trust sections" width="71" />
         </a>
-        <p><sub>Further down: services, process, supporting content.</sub></p>
+        <p><sub>Narrow mobile-style scroll; width set to match the row height beside it.</sub></p>
       </td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@ A **two-column gallery** of the live experience at [mugneeit.com](https://mugnee
       <td align="center" valign="top" width="50%">
         <p><strong>Schedule consultation</strong></p>
         <a href="./screenshots/screencapture-mugneeit-schedule-consultation-2026-04-13-10_20_45.png" title="Open full image">
-          <img src="./screenshots/screencapture-mugneeit-schedule-consultation-2026-04-13-10_20_45.png" alt="Schedule consultation page on Mugnee IT" width="430" />
+          <img src="./screenshots/screencapture-mugneeit-schedule-consultation-2026-04-13-10_20_45.png" alt="Schedule consultation page on Mugnee IT" width="624" />
         </a>
         <p><sub>Clear next step from interest to conversation.</sub></p>
       </td>
@@ -104,14 +104,14 @@ A **two-column gallery** of the live experience at [mugneeit.com](https://mugnee
       <td align="center" valign="top" width="50%">
         <p><strong>Service — Next.js</strong></p>
         <a href="./screenshots/screencapture-mugneeit-services-nextjs-2026-04-13-10_22_55.png" title="Open full image">
-          <img src="./screenshots/screencapture-mugneeit-services-nextjs-2026-04-13-10_22_55.png" alt="Next.js services page on Mugnee IT" width="430" />
+          <img src="./screenshots/screencapture-mugneeit-services-nextjs-2026-04-13-10_22_55.png" alt="Next.js services page on Mugnee IT" width="320" />
         </a>
         <p><sub>Modern web positioning &amp; structured narrative.</sub></p>
       </td>
       <td align="center" valign="top" width="50%">
         <p><strong>Service — mobile app development</strong></p>
         <a href="./screenshots/screencapture-mugneeit-services-mobile-app-development-2026-04-13-10_22_27.png" title="Open full image">
-          <img src="./screenshots/screencapture-mugneeit-services-mobile-app-development-2026-04-13-10_22_27.png" alt="Mobile app development services page on Mugnee IT" width="430" />
+          <img src="./screenshots/screencapture-mugneeit-services-mobile-app-development-2026-04-13-10_22_27.png" alt="Mobile app development services page on Mugnee IT" width="504" />
         </a>
         <p><sub>Breadth beyond web-only delivery.</sub></p>
       </td>
