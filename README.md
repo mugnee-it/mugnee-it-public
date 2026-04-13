@@ -71,8 +71,8 @@ Below is a **curated walk-through** of the live experience at [mugneeit.com](htt
 A strong opening sets tone, services, and credibility within seconds.
 
 <p align="center">
-  <a href="./screenshots/screencapture-mugneeit-2026-04-13-10_19_27.png" title="Open full image">
-    <img src="./screenshots/screencapture-mugneeit-2026-04-13-10_19_27.png" alt="Mugnee IT homepage — hero, value proposition, and primary navigation" width="920" />
+  <a href="./screenshots/screencapture-mugneeit-2026-04-13-10_47_40.png" title="Open full image">
+    <img src="./screenshots/screencapture-mugneeit-2026-04-13-10_47_40.png" alt="Mugnee IT homepage — hero, value proposition, and primary navigation" width="920" />
   </a>
 </p>
 
