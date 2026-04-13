@@ -64,74 +64,100 @@ The production solution is built with contemporary, maintainable web technology:
 
 ## Visual tour (live product)
 
-Below is a **curated walk-through** of the live experience at [mugneeit.com](https://mugneeit.com), ordered the way a prospective client typically explores: first impression, proof of delivery, depth of services, then a clear path to talk with your team. Each capture is optimized for readability in GitHub (scaled width; click the image to open full size in a new tab when viewing on github.com).
+A **guided look** at the live site — [mugneeit.com](https://mugneeit.com) — in the order a client usually explores. The **homepage** panel opens first; other steps stay **collapsed** until you expand them, so the page stays easy to scan. **Click any image** to open the full-resolution capture.
 
-### 1 · First impression — homepage
+| Step | Focus |
+| :---: | :--- |
+| **01** | Homepage — hero, story, and trust |
+| **02** | Projects — proof of delivery |
+| **03** | Services — depth (two examples, side by side) |
+| **04** | Consultation — clear next step |
 
-A strong opening sets tone, services, and credibility within seconds.
+<br/>
+
+<details open>
+<summary><strong>01 · Homepage</strong> — first impression &amp; continuity</summary>
+
+<p align="center"><strong>Above the fold</strong> — brand, hero, and primary paths into services.</p>
 
 <p align="center">
-  <a href="./screenshots/screencapture-mugneeit-2026-04-13-10_47_40.png" title="Open full image">
-    <img src="./screenshots/screencapture-mugneeit-2026-04-13-10_47_40.png" alt="Mugnee IT homepage — hero, value proposition, and primary navigation" width="920" />
+  <a href="./screenshots/screencapture-mugneeit-2026-04-13-10_47_40.png" title="Open full image in new tab">
+    <img src="./screenshots/screencapture-mugneeit-2026-04-13-10_47_40.png" alt="Mugnee IT homepage — hero, value proposition, and primary navigation" width="880" />
   </a>
 </p>
 
-<p align="center"><em>Homepage — hero, positioning, and entry points into services.</em></p>
+<p align="center"><strong>Further down</strong> — services, process, and supporting content that reinforce credibility.</p>
 
 <p align="center">
-  <a href="./screenshots/screencapture-mugneeit-2026-04-13-10_25_04.png" title="Open full image">
-    <img src="./screenshots/screencapture-mugneeit-2026-04-13-10_25_04.png" alt="Mugnee IT homepage — continued scroll showing services and trust sections" width="920" />
+  <a href="./screenshots/screencapture-mugneeit-2026-04-13-10_25_04.png" title="Open full image in new tab">
+    <img src="./screenshots/screencapture-mugneeit-2026-04-13-10_25_04.png" alt="Mugnee IT homepage — scroll showing services and trust sections" width="880" />
   </a>
 </p>
 
-<p align="center"><em>Homepage — further down the page: services, process, and supporting content that builds confidence.</em></p>
+</details>
 
-### 2 · Proof — projects & outcomes
+<br/>
 
-Concrete work signals that you ship real products, not only promises.
+<details>
+<summary><strong>02 · Projects</strong> — portfolio &amp; outcomes</summary>
+
+<p align="center">Case-style listings show breadth: real work, not generic claims.</p>
 
 <p align="center">
-  <a href="./screenshots/screencapture-mugneeit-projects-2026-04-13-10_20_24.png" title="Open full image">
-    <img src="./screenshots/screencapture-mugneeit-projects-2026-04-13-10_20_24.png" alt="Mugnee IT projects portfolio page showing case-style listings" width="920" />
+  <a href="./screenshots/screencapture-mugneeit-projects-2026-04-13-10_20_24.png" title="Open full image in new tab">
+    <img src="./screenshots/screencapture-mugneeit-projects-2026-04-13-10_20_24.png" alt="Mugnee IT projects portfolio page" width="880" />
   </a>
 </p>
 
-<p align="center"><em>Projects — portfolio-style presentation of delivered work.</em></p>
+</details>
 
-### 3 · Depth — representative service pages
+<br/>
 
-Dedicated pages explain *how* you help, with enough detail for technical and non-technical buyers.
+<details>
+<summary><strong>03 · Service depth</strong> — two representative pages</summary>
+
+<p align="center">Long-form service pages answer <em>how</em> you deliver — for both technical and business stakeholders.</p>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <p><strong>Next.js</strong></p>
+      <a href="./screenshots/screencapture-mugneeit-services-nextjs-2026-04-13-10_22_55.png" title="Open full image">
+        <img src="./screenshots/screencapture-mugneeit-services-nextjs-2026-04-13-10_22_55.png" alt="Next.js services page on Mugnee IT" width="400" />
+      </a>
+      <p><sub>Modern web positioning &amp; structured narrative</sub></p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <p><strong>Mobile app development</strong></p>
+      <a href="./screenshots/screencapture-mugneeit-services-mobile-app-development-2026-04-13-10_22_27.png" title="Open full image">
+        <img src="./screenshots/screencapture-mugneeit-services-mobile-app-development-2026-04-13-10_22_27.png" alt="Mobile app development services page on Mugnee IT" width="400" />
+      </a>
+      <p><sub>Breadth beyond web-only delivery</sub></p>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>04 · Schedule consultation</strong> — low-friction conversion</summary>
+
+<p align="center">A dedicated step from interest to conversation — clear fields and expectations.</p>
 
 <p align="center">
-  <a href="./screenshots/screencapture-mugneeit-services-nextjs-2026-04-13-10_22_55.png" title="Open full image">
-    <img src="./screenshots/screencapture-mugneeit-services-nextjs-2026-04-13-10_22_55.png" alt="Next.js services page on Mugnee IT — structured offering and messaging" width="920" />
+  <a href="./screenshots/screencapture-mugneeit-schedule-consultation-2026-04-13-10_20_45.png" title="Open full image in new tab">
+    <img src="./screenshots/screencapture-mugneeit-schedule-consultation-2026-04-13-10_20_45.png" alt="Schedule consultation page on Mugnee IT" width="880" />
   </a>
 </p>
 
-<p align="center"><em>Service example — Next.js: modern web positioning and structured service narrative.</em></p>
+</details>
+
+<br/>
 
 <p align="center">
-  <a href="./screenshots/screencapture-mugneeit-services-mobile-app-development-2026-04-13-10_22_27.png" title="Open full image">
-    <img src="./screenshots/screencapture-mugneeit-services-mobile-app-development-2026-04-13-10_22_27.png" alt="Mobile app development services page on Mugnee IT" width="920" />
-  </a>
-</p>
-
-<p align="center"><em>Service example — mobile app development: breadth beyond web-only delivery.</em></p>
-
-### 4 · Action — schedule a consultation
-
-A low-friction next step turns interest into a conversation.
-
-<p align="center">
-  <a href="./screenshots/screencapture-mugneeit-schedule-consultation-2026-04-13-10_20_45.png" title="Open full image">
-    <img src="./screenshots/screencapture-mugneeit-schedule-consultation-2026-04-13-10_20_45.png" alt="Schedule consultation page on Mugnee IT — lead capture and booking-oriented layout" width="920" />
-  </a>
-</p>
-
-<p align="center"><em>Schedule consultation — clear path from browsing to booking a conversation.</em></p>
-
-<p align="center">
-  <strong><a href="https://mugneeit.com">Visit the live site →</a></strong>
+  <a href="https://mugneeit.com"><strong>Open the live site → mugneeit.com</strong></a>
 </p>
 
 ---
